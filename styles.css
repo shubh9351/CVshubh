@@ -1,0 +1,31 @@
+body
+{
+background-color: #63b7af;
+background-image:url("tree-min.jpg");
+}
+hr
+{
+  border-style: none none dotted;
+  width: 5%;height: 40px;
+  border-width: thick;
+  border-color: grey;
+}
+.circular
+{
+border-radius: 100%;
+border-color:#eb4559;
+border-width: thick;
+border-style: solid;
+ }
+h1{color: #162447;}
+h2{color: #162447}
+h2:hover{background-color: #ffa41b ;
+width: 25%}
+.box
+{
+background-color: #84a9ac;
+margin: 25PX;
+text-align: left;
+font-style: normal;
+font-size: 10;
+}
